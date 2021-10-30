@@ -1,0 +1,12 @@
+.bookContainer {
+  display: flex;
+  padding: 10px 15px;
+  max-width: 500px;
+  margin: auto;
+  backgroundColor: greenyellow;
+}
+article {
+  margin: 5px 36px;
+}
+
+/* */
